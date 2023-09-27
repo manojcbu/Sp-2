@@ -1,4 +1,4 @@
-# Speech to Text converter by Mahesh Sawant
+
 
 import pyspeech as sr
 
